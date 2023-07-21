@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shibo Li"
 title_separator          : "-"
-name                     : &name "Shibo Li"
+name                     : &name "Dr. Shibo Li"
 description              : &description "My website"
 url                      : https://shiboli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shibo Li"
   avatar           : "profile.png"
-  bio              : "Associate professor at SIAT"
+  bio              : "Associate professor"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Zsfdxk4AAAAJ"
   email            :  "shiboli2016@126.com"
